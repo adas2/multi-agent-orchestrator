@@ -26,3 +26,5 @@ examples/local-demo/.env
 typescript/coverage/**/*
 
 .venv
+**/venv/
+**/__pycache__/
